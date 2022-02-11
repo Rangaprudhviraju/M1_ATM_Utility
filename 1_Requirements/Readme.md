@@ -31,6 +31,7 @@ The main them of atm System is to maintain the Withdrawal and Bank balance of th
 # SWOT
 ![swot](https://user-images.githubusercontent.com/82215129/153541234-91207ea2-3a3e-4b55-801f-bc299ad76b8c.PNG)
 
+
   
 
 
