@@ -32,10 +32,10 @@ The main them of atm System is to maintain the Withdrawal and Bank balance of th
 ![swot](https://user-images.githubusercontent.com/82215129/153541234-91207ea2-3a3e-4b55-801f-bc299ad76b8c.PNG)
 # Details requirements 
 ## High Level Requirements 
-#
+
 ![L1](https://user-images.githubusercontent.com/82215129/153557588-96d00b8f-5ca9-4eea-ae71-29c6860e80a5.PNG)
 ## Low Level Requirement
-#
+
 ![L2](https://user-images.githubusercontent.com/82215129/153557690-6712a96a-123f-44a5-97bb-66957eee4988.PNG)
 
 
