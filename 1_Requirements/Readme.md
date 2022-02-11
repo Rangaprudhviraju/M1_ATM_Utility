@@ -13,5 +13,17 @@ The main them of atm System is to maintain the Withdrawal and BAnk balance of th
  - Availability of both Saving Account.
  - Presence across the world.
  - 24/7 Services.
-##
+## 4W and 1H
+# WHO
+  This Applications and Machine's are maintained respective banks by individual.
+# WHAT
+  This is designed for account holder for withdrawal money from bank.
+# WHERE
+  ATM machine is the programming Application it is avaliable in bytes form on monitor screen. 
+# WHY 
+  We know that carrying bundles of money in pockets or wallets is make us difficul and threat,not safety.By this application with help of atm card we can draw money from atms. 
+# HOW
+  Initially Account holder have atm card with them ,by inserting card into the machine after type the 4 digits pin number. User will prompt the next screen and follow the details regrading. 
+  
+
 
