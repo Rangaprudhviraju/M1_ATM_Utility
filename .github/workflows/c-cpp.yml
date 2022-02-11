@@ -13,11 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: make build
+      run: make /home/runner/work/_temp/1e80770d-5a7a-4af1-b86d-563964e4b1e0.sh: line 1: ./configure: No such file or directory
+      0
+   
